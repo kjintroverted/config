@@ -2,8 +2,7 @@
 
 # oh-my-zsh installation.
 export ZSH=/Users/wkgreen/.oh-my-zsh
-source $ZSH/oh-my-zsh.sh
-ZSH_THEME="agnoster"
+ZSH_THEME='agnoster'
 DEFAULT_USER=`whoami`
 
 # Env Variables
@@ -22,6 +21,8 @@ HYPHEN_INSENSITIVE="true"
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
 # HIST_STAMPS="mm/dd/yyyy"
 plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
 
 # git shortcuts
 alias clone='git clone'
