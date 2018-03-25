@@ -1,7 +1,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # oh-my-zsh installation.
-export ZSH=/Users/wkgreen/.oh-my-zsh
+export ZSH=~/.oh-my-zsh
 ZSH_THEME='avit'
 DEFAULT_USER=`whoami`
 
