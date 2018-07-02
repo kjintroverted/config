@@ -46,4 +46,4 @@ alias g='./gradlew'
 alias x='npx'
 # directory shortcuts
 alias shell='vi ~/.zshrc'
-alias profile='vi ~/git/config/.zsh'
+alias profile='vi ~/config/.zsh'
