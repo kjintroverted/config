@@ -47,3 +47,7 @@ alias x='npx'
 # directory shortcuts
 alias shell='vi ~/.zshrc'
 alias profile='vi ~/config/.zsh'
+# comman shortcuts
+alias lll='ls -la'
+alias home='git config user.email "wkgreen13@gmail.com"'
+alias work='git config user.email "williamrobert_k_green@homedepot.com"'
